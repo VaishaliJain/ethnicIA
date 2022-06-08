@@ -1,5 +1,7 @@
 # ethnicIA
 
+![](/Images/ethnicIA_logo.png?raw=true)
+
 "The Importance of being Ernest, Ekundayo, or Eswari: An Interpretable Machine Learning Approach to Name-based Ethnicity Classification"
 Authors: Vaishali Jain, Ted Enamorado, and Cynthia Rudin
 
@@ -16,3 +18,5 @@ Follow any instruction provided in the functions in the python file.
 # Replication for Section 3: Sensitivity of parameters for Indistinguishibility
 
 Run Code/R/03_Create_Features_FLGA_multCuts.R and Code/R/03_Plot_multCuts.R to generate the contour plot shown in Figure 1.
+
+![Namespace](/Images/Namespace.png?raw=true "Namespace")
