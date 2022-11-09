@@ -7,11 +7,11 @@ Authors: Vaishali Jain, Ted Enamorado, and Cynthia Rudin
 
 Citation: Jain, V., Enamorado, T., & Rudin, C. (2022). The Importance of Being Ernest, Ekundayo, or Eswari: An Interpretable Machine Learning Approach to Name-Based Ethnicity Classification. Harvard Data Science Review, 4(3). https://doi.org/10.1162/99608f92.db1aba8b
 
-# Data:
+# Data
 
 You can download all the required datasets from here: https://users.cs.duke.edu/~cynthia/ethnicIA/Data/
 
-# Steps for experiments, case study, and appendices:
+# Steps to replicate experiments, case study, and appendices
 
 Step 1: Run Code/R/01_Create_Train_Features_Master_sparse.R and Code/R/01_Create_Train_Features_Master_UID.R to generate all training datasets
 Step 2: Run Code/R/02_Create_Test_Features_Master_sparse.R and Code/R/02_Create_Test_Features_Master_UID.R to generate all test datasets
