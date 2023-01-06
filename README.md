@@ -9,7 +9,7 @@ Citation: Jain, V., Enamorado, T., & Rudin, C. (2022). The Importance of Being E
 
 # Data
 
-You can download all the required datasets from here: https://users.cs.duke.edu/~cynthia/ethnicIA/Data/
+You can download the datasets from NC and FL from here: https://users.cs.duke.edu/~cynthia/ethnicIA/Data/. The GA data is not publicly available, so we have created 3 processed training and test datasets using only NC and FL that can be useful for testing algorithms.
 
 # Steps to replicate experiments, case study, and appendices
 
